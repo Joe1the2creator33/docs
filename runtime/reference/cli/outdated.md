@@ -1,4 +1,4 @@
----
+---Autotitle
 title: "deno outdated"
 command: outdated
 openGraphLayout: "/open_graph/cli-commands.jsx"
